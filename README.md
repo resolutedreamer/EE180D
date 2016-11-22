@@ -1,6 +1,6 @@
 EE180D
 ======
-## Motion Classification Project
+## Wireless Health Motion Classification Project
 Contains the results of Fall 2013 team project for EE 180D - Systems Design
 
 #### Screenshot
